@@ -1,0 +1,201 @@
+TransactionID,CustomerName,Email,PhoneNumber,Location,Country,AccountNumber,TransactionType,TransactionAmount,TransactionDate,CreditCardNumber,Currency,Merchant
+QR16YJAV,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Castilloview,USA,2555569327,Credit,2890.38,25-01-2025,4471 6272 3863 7147,USD,Amazon
+ZQ5QR70F,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Ashleyhaven,USA,2276660858,Credit,557.35,12-03-2025,8219 6615 7334 5051,,Walmart
+ZYE9JOZL,John Doe,johndoe@example.com,+1 202-555-0123,  Debbiemouth,USA,8762774158,Debit,3570.03,30-01-2025,4347 6527 9743 0384,USD,Amazon
+P32L7DP5,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,  Mayfort,USA,4894919198,Credit,-4969.8,09-02-2025,8340 7996 5903 2598,usd,Netflix
+3ONLPEVE,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,North Jasonmouth,USA,5194858540,Credit,3151.47,24-01-2025,2763 5434 9657 0555,usd,Best Buy
+V8E1YKY3,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,South Kelli,USA,5108366689,Credit,2221.91,23-01-2025,5180 9190 5855 7415,usd,Walmart
+TQ7FVG2U,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,West Sylvia,,6083215699,Credit,2626.79,04-03-2025,3891 9413 4809 5637,usd,Starbucks
+LY8HNZHQ,John Doe,johndoe@example.com,+1 202-555-0123,Johnland,USA,7661176145,Debit,-1198.85,11-02-2025,5768 7118 6995 8310,usd,Costco
+OBDDHGW8,John Doe,johndoe@example.com,+1 202-555-0123,  Hinesland,USA,4305086200,Debit,628.4,21-01-2025,2433 6830 4303 6387,usd,Apple Store
+5DUN0B8K,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Port Robert,USA,6190467413,Credit,3413.57,18-02-2025,1568 0610 1133 6071,usd,Amazon
+OK6UA875,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Mcintyreborough,USA,7169249930,Credit,4849.37,20-01-2025,7496 2196 9080 1019,usd,Walmart
+PYOW7M5Y,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Port Brendafurt,,7633088095,Credit,1507.2,11-02-2025,7993 1299 1500 3245,usd,Costco
+8R6XGKOX,John Doe,johndoe@example.com,+1 202-555-0123,East Gavin,USA,7046237018,Credit,4991.45,15-01-2025,1727 6132 1401 4260,usd,Amazon
+FN1O0IBX,Emily Davis,emily.davis@example.com.au,+61 400 123 456,  Wendyton,USA,9003053190,Credit,226.57,10-03-2025,8829 2433 3877 3690,usd,Uber
+XZOMQSJ5,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,East Josephview,USA,2859825824,Debit,3199.82,20-01-2025,4799 4358 3134 4490,USD,Walmart
+CUJVOQQ9,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Port Tracyshire,USA,7939458713,Credit,1671.13,21-02-2025,3769 6602 1068 2318,USD,Walmart
+08XGTNPJ,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,East David,USA,6277849723,Credit,3094.08,22-02-2025,2004 9683 3861 0940,USD,Costco
+TV0PJ0EC,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Beanmouth,USA,4402583599,Credit,2580.16,16-02-2025,5185 3469 9012 6779,USD,Costco
+GEC7ZACZ,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,  Parsonston,,4003510524,Credit,3062.16,07-02-2025,5382 1182 9039 7270,USD,Costco
+TTRBZWCA,John Doe,johndoe@example.com,+1 202-555-0123,New Jacqueline,USA,7118418692,Debit,3459.33,24-01-2025,8686 2849 8623 6271,USD,Costco
+AN61BX13,John Doe,johndoe@example.com,+1 202-555-0123,Reedshire,USA,8646780185,Debit,2004.41,01-03-2025,9211 8727 8606 3016,USD,Costco
+H6IQNC6Z,John Doe,johndoe@example.com,+1 202-555-0123,Douglasview,USA,4830080687,Credit,4019.21,21-01-2025,7178 3740 9495 0821,USD,Apple Store
+ZAPR6X03,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Stephaniefort,USA,3145713593,Debit,2744.72,11-03-2025,3435 5645 9325 9968,USD,Starbucks
+97UYS1MV,John Doe,johndoe@example.com,+1 202-555-0123,  Daymouth,USA,2992640199,Debit,1296.31,21-01-2025,3649 4970 7170 8783,USD,Netflix
+TY4VO04V,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Morrisonview,USA,8027756155,Debit,1961.56,03-02-2025,1805 5300 5749 8884,USD,Best Buy
+XU4BL4UE,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Lake John,USA,9899212157,Debit,392.5,23-02-2025,6809 3766 4108 6517,USD,Best Buy
+09W9MTFB,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Stacychester,USA,8742215713,Debit,3657.29,22-02-2025,1010 3406 6300 1466,USD,Amazon
+XJQOCDGK,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Port Adamfurt,USA,6281638511,Debit,2118.26,17-02-2025,6401 0847 7465 3191,USD,Apple Store
+BZTY8GBU,Emily Davis,emily.davis@example.com.au,+61 400 123 456,West Michaeltown,USA,1224398885,Debit,3888.81,11-02-2025,6058 2734 2328 6554,USD,Apple Store
+8X389SRP,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,East Sabrinamouth,USA,6368734851,Debit,1324.59,19-01-2025,4810 7341 4218 5031,USD,Costco
+K39V8OIO,Emily Davis,emily.davis@example.com.au,+61 400 123 456,North Justinberg,USA,2115469091,Debit,-3474.27,16-01-2025,3967 5192 0098 8827,USD,Best Buy
+P2YIPTBW,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,  Collinsfort,USA,6019848338,Credit,1798.63,17-01-2025,1344 9890 3245 8844,USD,Amazon
+GNYGSA3W,Emily Davis,emily.davis@example.com.au,+61 400 123 456,South Lindsey,USA,2237918034,Credit,1042.58,16-02-2025,7729 0745 4854 6856,USD,Uber
+HS2A11FO,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,New Jennifer,USA,8285448959,Credit,154.67,04-03-2025,8361 7652 6308 4745,,Amazon
+6IYUCZ8C,John Doe,johndoe@example.com,+1 202-555-0123,Port Laurieton,USA,3350440802,Debit,3669.81,06-03-2025,7548 2499 9181 3338,USD,Walmart
+2NZOVCW3,John Doe,johndoe@example.com,+1 202-555-0123,  Sarafurt,USA,1835534784,Credit,205.14,24-01-2025,1627 6749 2024 7426,USD,Amazon
+WLQKWJ1O,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,West Allenshire,USA,8260969036,Debit,4906.19,05-03-2025,8645 7598 7821 9707,USD,Starbucks
+SW5EHL9C,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Patriciaside,USA,5434495158,Debit,319.19,16-01-2025,4078 4516 2031 6622,USD,Walmart
+4MF15QJ3,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Port Katherine,USA,1472861086,Credit,747.17,19-02-2025,6319 4546 0014 3346,USD,Uber
+02C98BON,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Port Rayborough,USA,5709413089,Debit,1421.02,11-03-2025,0050 9519 9756 8251,USD,Walmart
+63HJ9N3T,Emily Davis,emily.davis@example.com.au,+61 400 123 456,West Victoria,USA,6732171176,Debit,4546.87,30-01-2025,0169 2026 0761 3664,USD,Amazon
+V1INKRTD,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,North Jessicafurt,USA,1121235353,Credit,4920.85,06-03-2025,1274 6317 6154 5541,USD,Costco
+SKGT4NSU,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,  Kirstenchester,USA,8954655219,Credit,4098.52,01-02-2025,7355 7228 9002 8254,USD,Netflix
+Z20K11C0,Emily Davis,emily.davis@example.com.au,+61 400 123 456,  Henrymouth,USA,7072377657,Credit,4411.17,02-02-2025,7070 1625 9752 8020,USD,Amazon
+0MOE8S5T,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,South Kevin,USA,8280920273,Debit,434.96,05-03-2025,5750 7374 4556 3551,USD,Walmart
+2KXJFTQE,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Sherryshire,USA,2075547127,Credit,2202.83,17-02-2025,9478 6257 0869 5180,USD,Starbucks
+CKCHW2S4,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,East Gregorymouth,USA,1062474279,Debit,230.17,12-02-2025,3825 5007 6760 0975,USD,Apple Store
+LHQNGG2E,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Michelletown,USA,7526930463,Credit,1335.25,25-01-2025,8226 7299 9485 4489,USD,Starbucks
+VAX1K5FG,Emily Davis,emily.davis@example.com.au,+61 400 123 456,  Acostaside,USA,7071232653,Debit,4003.9,15-03-2025,0838 9007 8702 7944,USD,Best Buy
+AMIEN5CQ,John Doe,johndoe@example.com,+1 202-555-0123,Port Karen,USA,9773211011,Credit,-1622.46,26-02-2025,8242 2825 7843 6021,USD,Amazon
+GB70FHO5,John Doe,johndoe@example.com,+1 202-555-0123,West Hannahfurt,USA,6813094963,Credit,644.77,02-03-2025,7696 6636 7492 0153,USD,Walmart
+IZ43VJII,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,New Audrey,USA,3760751981,Debit,4068.64,16-01-2025,2270 4863 3858 3499,USD,Best Buy
+FHTLUJO8,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,South Johnfurt,USA,1411004486,Debit,4999.77,15-01-2025,9028 4381 0741 5776,USD,Netflix
+ERPJYCVR,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,South Megan,USA,8030018020,Credit,2609.34,28-02-2025,1560 3086 6140 6038,USD,Starbucks
+ZWEDZKPT,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Benjaminborough,USA,9472391568,Credit,2473.75,13-02-2025,3046 5809 6250 5194,USD,Starbucks
+GBR9USHY,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Dwaynemouth,USA,2621087703,Credit,4654.32,26-02-2025,7743 7226 6175 9907,USD,Walmart
+R1UX753X,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,West Diana,USA,3595780307,Debit,1519.8,10-02-2025,5645 5159 5133 4089,USD,Costco
+3NH1ZYZZ,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Port Elizabethfurt,USA,1651656931,Debit,644.59,07-03-2025,8815 8368 9101 7765,USD,Uber
+ESTGFI11,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,West Michael,USA,7917306033,Credit,970.56,27-01-2025,1685 5946 7228 1714,USD,Walmart
+R4NUIV4C,Emily Davis,emily.davis@example.com.au,+61 400 123 456,West Laurentown,USA,8780925956,Credit,2622.47,21-02-2025,2030 0632 5746 5495,USD,Best Buy
+9VSARFCD,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Reyesberg,USA,1989692430,Credit,3397.33,17-01-2025,3480 9084 6735 3994,USD,Walmart
+NSDLZSA9,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Woodview,USA,3310994988,Debit,2950.72,13-03-2025,3967 3879 6883 8369,USD,Netflix
+M78TKE4L,Emily Davis,emily.davis@example.com.au,+61 400 123 456,  Hollyville,USA,2312321007,Credit,372.96,04-03-2025,9392 2304 4892 9281,USD,Apple Store
+TDRJY9UM,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Sweeneymouth,USA,2585723891,Debit,977.38,07-03-2025,6773 5781 9740 6613,USD,Apple Store
+XUP69PB6,John Doe,johndoe@example.com,+1 202-555-0123,Patrickland,USA,4455522746,Debit,1338.2,13-02-2025,7762 9303 7654 7651,USD,Uber
+K4PBMZ3Q,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Josephhaven,USA,7227560424,Debit,224.23,22-01-2025,7769 5612 6803 8637,USD,Apple Store
+PJHQUV3G,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Charlesside,,5837437122,Debit,3169.93,27-01-2025,8223 9919 3743 3523,USD,Amazon
+LQ8F0QG8,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Diazborough,USA,9553628845,Credit,3461.03,07-02-2025,5526 3174 1974 7699,USD,Netflix
+21QY75II,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Barryfurt,USA,5673061260,Debit,628.07,06-02-2025,9336 0066 9281 0128,USD,Walmart
+VAJWNLRP,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,  Crystalshire,USA,4167146407,Debit,4185.58,15-01-2025,7064 2882 0743 9805,USD,Starbucks
+YIW8EJYV,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,West Traciview,USA,6757565496,Credit,4047.87,03-02-2025,7606 5640 2481 2624,USD,Costco
+T2N9WJDE,John Doe,johndoe@example.com,+1 202-555-0123,Cunninghamberg,USA,7312503995,Debit,4766.05,17-02-2025,5965 8451 0863 3635,USD,Starbucks
+MJWLJQPV,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Robertsborough,USA,7368267604,Debit,3997.05,01-03-2025,7902 8554 3688 0426,USD,Costco
+CAVDB93U,John Doe,johndoe@example.com,+1 202-555-0123,Port Marieborough,USA,9589732876,Debit,4396.96,05-02-2025,4326 3958 0682 1084,USD,Apple Store
+FOR626ZU,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,East Keithchester,USA,6940231842,Credit,831.27,23-02-2025,8209 3130 3228 1201,USD,Costco
+GHIN5G11,John Doe,johndoe@example.com,+1 202-555-0123,New Mary,USA,6308327387,Debit,1503.8,04-03-2025,9012 6069 5128 0802,,Best Buy
+7YIY5UVY,John Doe,johndoe@example.com,+1 202-555-0123,  Scottton,USA,1950591244,Debit,2386.78,24-01-2025,8597 3127 2499 7076,USD,Best Buy
+Z56X2NBS,John Doe,johndoe@example.com,+1 202-555-0123,Hartland,USA,1904131705,Credit,197.51,02-03-2025,8097 0323 2066 8319,USD,Best Buy
+DUJO88ZZ,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Port Sarah,USA,9737340260,Debit,700.77,11-02-2025,4232 6202 1351 2970,USD,Walmart
+BGYRWUIT,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,West Alisonmouth,USA,9819544668,Credit,4310.68,08-02-2025,2516 3556 8090 6460,USD,Apple Store
+QCLPSEIU,John Doe,johndoe@example.com,+1 202-555-0123,Wesleytown,USA,7906788307,Credit,2820.66,24-02-2025,5912 9017 7642 3551,USD,Walmart
+OSFZTB0Y,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,New Michael,USA,8778414474,Debit,4077.52,23-02-2025,6387 8563 2991 4582,USD,Walmart
+QSVJS59M,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Port Brendan,USA,6988194549,Credit,2350.4,13-02-2025,2273 0130 1549 4383,USD,Uber
+VLL3BZDW,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,  Brownburgh,USA,6109663536,Credit,3987.54,05-02-2025,1428 0460 8054 3050,USD,Best Buy
+ZO5KRRJ9,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,South Christopher,USA,2418077948,Credit,2414.9,12-02-2025,0777 6713 1156 1747,,Starbucks
+KRWX4KCH,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,West Erin,USA,8894664198,Debit,4942.06,07-03-2025,0955 2856 6474 5817,USD,Walmart
+P6GGFB3U,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,East Shelby,USA,1989200728,Debit,760.4,05-02-2025,6529 8459 1861 2903,USD,Netflix
+SX7EWAXG,John Doe,johndoe@example.com,+1 202-555-0123,Floresfort,,3887380278,Credit,4114.01,14-02-2025,8483 2167 5225 2230,USD,Walmart
+SLYNUUYS,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Kristinemouth,USA,9418660511,Debit,3503.32,12-02-2025,9349 2650 5344 8636,USD,Costco
+A5NM0J57,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,North Christopher,USA,1952596399,Debit,4904.14,28-01-2025,3938 6622 9222 9216,USD,Netflix
+L2M6O9EY,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,South Martinborough,USA,7067671385,Credit,3589.04,25-01-2025,7306 3035 7095 9420,USD,Starbucks
+3DH2A3XG,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Sandersborough,usa,7080285919,Debit,4239.59,20-02-2025,9602 0939 8935 8787,USD,Uber
+MTNN8RB0,John Doe,johndoe@example.com,+1 202-555-0123,East Mathewmouth,usa,6797826287,Debit,2198.84,05-03-2025,1860 8685 8179 1084,USD,Walmart
+AIH81BR1,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Jenningschester,usa,8626157990,Credit,1830.6,22-02-2025,1742 6548 0184 8422,USD,Best Buy
+V40QMSBU,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Evansmouth,usa,4886636435,Credit,1301.49,27-02-2025,5764 8228 7904 7312,USD,Costco
+OLGB2QYQ,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,  Vickimouth,usa,3459417859,Credit,3036.07,06-02-2025,6478 0044 0759 1196,USD,Walmart
+2TPNHI0P,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,East Felicia,usa,8444242090,Debit,3682.18,14-02-2025,6129 4310 7714 6302,USD,Uber
+9XJFLS0D,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,New Vickiebury,usa,3303656035,Credit,4749.64,28-01-2025,6943 3201 5161 7835,USD,Apple Store
+S3YQ2FBR,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Morenotown,usa,7526322317,Debit,3000.18,12-02-2025,5909 2232 2883 8118,USD,Apple Store
+U4XLCBPO,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,New Ashley,usa,2489303856,Debit,663.35,08-02-2025,0305 1969 0856 3980,USD,Netflix
+K3U0PQGD,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Port Anthony,usa,5850463064,Debit,573.42,15-03-2025,2093 3612 4877 7393,USD,Uber
+NSASA7SO,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Matthewport,USA,6298305059,Debit,704.16,24-01-2025,7021 1119 1747 9345,USD,Starbucks
+M4J9WNDX,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Tammieberg,USA,4571617647,Credit,4697.87,01-03-2025,1113 1490 6916 7965,USD,Uber
+0UX667HM,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Carterberg,USA,7988733931,Debit,2590.64,20-01-2025,3427 3158 2750 5547,USD,Starbucks
+E6JKW875,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,South Seanmouth,USA,9173804609,Debit,4120.89,14-03-2025,2057 7026 0180 7550,USD,Costco
+JQ8Y9Y44,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Jenkinsstad,USA,8219302738,Credit,2859.69,22-02-2025,2618 0902 5543 9698,USD,Netflix
+7K6KSJWU,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Meyerchester,USA,7812288825,Debit,922.45,10-02-2025,4564 8679 7673 7896,USD,Walmart
+ELN4TQC3,John Doe,johndoe@example.com,+1 202-555-0123,South Sarah,USA,1008378215,Debit,4731.34,03-02-2025,0033 2470 9827 8363,USD,Amazon
+QBUPOK3Y,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,East Holly,USA,5331475930,Debit,707.21,04-03-2025,7402 5235 9058 5154,USD,Starbucks
+6XQS81DO,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Jamestown,USA,2884243932,Credit,243.03,29-01-2025,0098 4509 9176 8413,USD,Walmart
+PK4K0UY2,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,North Curtis,USA,6736310175,Credit,1998.97,15-01-2025,0552 0043 4992 3016,USD,Amazon
+UXBMMR2K,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Wrighttown,USA,1514171374,Debit,1194.67,20-01-2025,0349 1893 5448 6032,USD,Apple Store
+SPWRQKLE,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Lake Paulmouth,USA,9128249199,Debit,4699.7,03-03-2025,0208 1090 6699 8846,USD,Netflix
+IRGE0QZI,Emily Davis,emily.davis@example.com.au,+61 400 123 456,West Phillip,USA,9162133162,Debit,1441.82,07-02-2025,0417 3181 5674 2228,USD,Netflix
+9Q4N1N6R,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Stevenland,USA,7340740964,Debit,3584.64,12-02-2025,6080 0673 8989 8070,USD,Costco
+ETCV0JWQ,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,East Jessica,USA,9123389804,Debit,2644.42,23-02-2025,8815 6072 8687 8121,USD,Apple Store
+JK2QKNNJ,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Carrollton,USA,8183798085,Debit,957.04,25-01-2025,1933 0729 9120 6611,USD,Starbucks
+O3GOWOTI,John Doe,johndoe@example.com,+1 202-555-0123,Blackburnstad,USA,5912374178,Credit,3007.65,26-01-2025,1321 0382 8118 8634,USD,Walmart
+2PWFA130,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Stevenburgh,USA,6940489587,Credit,4167.8,06-02-2025,6183 0935 9904 6265,USD,Starbucks
+Y6DAOU69,John Doe,johndoe@example.com,+1 202-555-0123,East Amy,USA,2301774994,Debit,2043.74,18-02-2025,7781 4721 1103 2120,,Starbucks
+GKHO6FTG,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Cervantesfurt,USA,1285568687,Credit,2259.14,16-02-2025,4377 1034 4223 1628,USD,Walmart
+Z531RGRW,John Doe,johndoe@example.com,+1 202-555-0123,Barbarabury,USA,9740073831,Credit,3188.72,07-03-2025,9959 7136 0453 5244,USD,Costco
+HFNN7FYK,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,West Davidport,USA,7635987205,Credit,3933.06,07-03-2025,2824 3539 0459 9066,USD,Apple Store
+U2R1XXN0,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Danatown,USA,9747386159,Debit,1473.9,24-02-2025,0447 2669 2063 3801,USD,Apple Store
+2575DPUR,John Doe,johndoe@example.com,+1 202-555-0123,West Gregory,USA,1344882114,Credit,524.04,20-02-2025,5873 3504 0523 3713,USD,Walmart
+88RXYX84,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,East Sandrahaven,USA,3124096789,Credit,4000.37,14-03-2025,3222 1038 3022 9783,USD,Amazon
+0OS5T9O8,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Denisefurt,USA,9515756210,Debit,1329.1,15-02-2025,3773 1995 4703 7156,USD,Netflix
+SRVXNYHA,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Brettberg,USA,5219567798,Debit,3940.01,04-02-2025,4212 1797 7872 9054,USD,Uber
+XWT5X5MS,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,  Jonesmouth,USA,3919149807,Credit,4080.69,25-01-2025,1783 1772 9285 3069,USD,Starbucks
+ZULAEWDC,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,New Michele,USA,8834581183,Credit,2816.19,18-02-2025,5773 5575 9133 4299,USD,Amazon
+X61IMFUE,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Coreymouth,USA,5111330058,Credit,3676.73,25-02-2025,1220 7387 0121 4646,USD,Uber
+5TCBU76O,Emily Davis,emily.davis@example.com.au,+61 400 123 456,East Stephanieland,USA,4143528618,Credit,583.43,28-01-2025,3810 6618 2608 7776,USD,Amazon
+SA5TCSQ2,John Doe,johndoe@example.com,+1 202-555-0123,Port Cynthiabury,USA,2022304087,Credit,3850.14,26-02-2025,5424 2971 1483 3197,USD,Walmart
+PBOOD9TP,John Doe,johndoe@example.com,+1 202-555-0123,East Jillfurt,USA,7964991360,Debit,1642.29,28-01-2025,5836 0115 4113 3958,USD,Best Buy
+1G8EJDE0,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Martinezview,USA,3006860701,Credit,4532.02,02-02-2025,9816 8807 5787 2285,USD,Walmart
+EK3V5KU9,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,West Heatherhaven,USA,5103985481,Credit,4754.97,22-01-2025,0875 9892 0507 2199,USD,Apple Store
+IQQ7H2EJ,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,West James,USA,6849348652,Credit,4224.87,13-02-2025,8175 5986 3843 8431,USD,Netflix
+ILD00C80,John Doe,johndoe@example.com,+1 202-555-0123,Port Johnhaven,USA,7340801966,Debit,80.32,07-03-2025,7859 1199 4720 6458,USD,Starbucks
+CPYH69MY,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,South Jesseberg,USA,2553530633,Debit,931.21,18-02-2025,4388 1540 0380 8279,USD,Best Buy
+03JNB5YM,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Brownport,USA,2678684810,Debit,1415.94,15-01-2025,9990 6650 4427 6466,USD,Amazon
+WRMIZQ7J,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,South Theresaview,USA,1063102002,Debit,2679.56,19-01-2025,8482 7235 1171 9394,USD,Apple Store
+NC15OEWB,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,East Rhondafurt,USA,7919967150,Credit,4570.93,23-01-2025,6110 3746 7252 7941,USD,Starbucks
+WZEV8EF8,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Wongshire,USA,9784493800,Credit,4083.58,20-01-2025,2010 5086 8775 8976,USD,Starbucks
+FYC3HHLA,John Doe,johndoe@example.com,+1 202-555-0123,Jodyville,USA,9026314863,Credit,1632.6,20-01-2025,9728 3119 2213 6898,USD,Uber
+87JTTUGA,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,North Josephfurt,USA,4520832395,Credit,2382.77,03-03-2025,4737 5910 7289 6238,USD,Apple Store
+X4Y1ZB8T,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,West Melanieview,USA,4158076766,Debit,3492.39,08-03-2025,1074 0664 3974 5727,USD,Costco
+V2VCWG1G,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Lake Elizabeth,USA,1032044690,Debit,2151.69,28-02-2025,1736 3521 1843 8817,USD,Best Buy
+C8Y4LCG5,John Doe,johndoe@example.com,+1 202-555-0123,Andrefurt,USA,6179812764,Credit,3970.84,21-02-2025,4221 5221 5658 1737,USD,Starbucks
+NYK7H3GH,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Lake Brenda,USA,9498157944,Debit,3688.64,10-03-2025,7884 5858 6030 2493,USD,Amazon
+S7PBLIF3,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Jenkinsview,USA,3771689763,Debit,397.4,28-01-2025,9929 1433 8179 5288,USD,Apple Store
+FUQ9V32Z,John Doe,johndoe@example.com,+1 202-555-0123,  Jasonview,USA,2024571561,Credit,4365.75,18-02-2025,9142 9546 0157 4542,USD,Netflix
+4A0T1DB7,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Zamoramouth,USA,8758311275,Credit,2665.57,03-02-2025,5150 4535 7473 8692,USD,Amazon
+NK80OZPB,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Lake Markberg,USA,6674915696,Credit,3479.72,19-01-2025,0345 2253 7318 6466,USD,Amazon
+EU0JUW83,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Blackbury,USA,9863947990,Debit,2620.87,15-03-2025,7644 5054 0954 1238,USD,Costco
+ASYLM4DH,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,North Debbieport,USA,6032995789,Credit,2621.85,22-02-2025,4668 2577 6126 7257,USD,Walmart
+H64Q752Y,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Marshchester,USA,5064557457,Credit,2811.01,06-02-2025,1195 6082 1274 0497,USD,Costco
+VQO02ODO,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Smithberg,USA,8709095395,Credit,2460.48,24-02-2025,2090 6915 6209 2235,USD,Apple Store
+6FCBXMTH,John Doe,johndoe@example.com,+1 202-555-0123,New Judy,USA,9125337700,Debit,3066.79,11-03-2025,5466 4340 8349 3152,USD,Starbucks
+PAZ4WBYN,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Port Matthewview,USA,7756190645,Credit,1654.74,01-02-2025,7422 4293 5259 6065,USD,Walmart
+ATSP5MLL,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,South Kevin,USA,6595204982,Debit,1556.45,06-02-2025,2997 4271 9099 8512,USD,Costco
+KUGJT8IO,Emily Davis,emily.davis@example.com.au,+61 400 123 456,South Johnfurt,USA,1822738242,Credit,2627.26,24-01-2025,1942 1850 5126 1322,USD,Apple Store
+B0S8TUFA,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Johntown,USA,2649158127,Debit,1231.05,29-01-2025,3024 5301 4367 2605,usd,Netflix
+2UB7INGO,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Pattersonshire,USA,2520312626,Debit,1556.1,17-02-2025,3367 8956 3280 3932,usd,Uber
+Y7X12DYK,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,North Andreaside,USA,8483503554,Debit,3577.22,20-01-2025,4282 7745 4129 6328,usd,Apple Store
+UCZ4WSY6,Emily Davis,emily.davis@example.com.au,+61 400 123 456,South Elizabethbury,USA,1200649401,Credit,4163.09,25-02-2025,7883 2937 6527 3115,usd,Amazon
+WAYU2F70,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Brianborough,USA,8875480246,Debit,2467.45,01-02-2025,4364 2859 5485 0431,usd,Apple Store
+KOTAT6DC,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,  Jessicahaven,USA,2025505017,Credit,1709.91,21-01-2025,7117 3072 3493 8987,usd,Amazon
+WOHKEIDS,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Johnsonmouth,USA,1305629294,Debit,1202.46,22-01-2025,4465 9361 0240 7857,usd,Netflix
+XQS69XXI,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Hughesport,USA,7434373465,Debit,4537.38,07-03-2025,5800 7124 2263 1143,usd,Walmart
+EI4Q948Y,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,South Emilyshire,USA,3123838686,Credit,4396.78,10-02-2025,5306 3318 5102 1676,USD,Costco
+KI8N8BIT,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Birdtown,USA,9391782853,Debit,2567.82,03-03-2025,1337 9917 4016 8429,USD,Amazon
+JU3RVWKW,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Alexandertown,USA,6981479279,Credit,3531.07,29-01-2025,8870 7194 5039 8542,USD,Uber
+9BFAL2A1,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Newmanport,USA,9231383181,Credit,3857.12,18-02-2025,1810 0456 3103 4043,USD,Netflix
+883U9AUR,Emily Davis,emily.davis@example.com.au,+61 400 123 456,  Richardfort,USA,3868111117,Debit,33.3,23-01-2025,5429 2130 5447 7209,USD,Apple Store
+DV2KH7DJ,Emily Davis,emily.davis@example.com.au,+61 400 123 456,West Evanside,USA,9923985509,Debit,630.99,28-01-2025,2255 3453 2234 1247,USD,Uber
+TP4ITXVB,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Port Patrick,USA,1788720170,Debit,3315.46,22-02-2025,9596 0998 4786 1387,USD,Walmart
+1EBMJKNJ,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,  Turnerborough,USA,3587376356,Debit,1179.4,12-03-2025,0848 8470 4445 6664,USD,Best Buy
+93HOSV20,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Lake Andre,USA,5009019514,Debit,4550.29,28-01-2025,1534 9433 9020 1781,USD,Uber
+S28J4PY0,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,North Ashleyborough,USA,1023304615,Debit,3922.33,06-03-2025,2903 6911 6188 4675,USD,Uber
+3VXTEC5B,John Doe,johndoe@example.com,+1 202-555-0123,New Cynthia,USA,4323125876,Credit,1952.63,08-03-2025,4606 2873 7865 6716,USD,Netflix
+3AYU3GMP,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Gillfurt,USA,7822692412,Credit,2893.58,26-01-2025,3744 7743 1459 7330,USD,Walmart
+5SZJC4UT,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,New Andrew,USA,3974506303,Debit,1038.75,25-02-2025,4792 3601 5651 4426,USD,Netflix
+Y2TFVEUW,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Briantown,USA,2053296417,Credit,1353.43,13-03-2025,9374 3710 7747 1010,USD,Netflix
+X4EVI4O0,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Lake Michael,USA,1872725654,Debit,3062.07,13-02-2025,1142 9029 3989 3961,USD,Netflix
+H13IKA9U,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,North Angela,USA,4195622052,Debit,3527.52,03-02-2025,4101 9039 0837 5785,USD,Costco
+J4B6VRIS,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,West James,USA,6617794312,Debit,3744.21,27-01-2025,9142 7271 4482 6974,USD,Apple Store
+KE3S8HVU,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,Adamberg,USA,8136490638,Credit,3242.34,24-02-2025,9955 9848 1216 4792,USD,Best Buy
+1J735345,Emily Davis,emily.davis@example.com.au,+61 400 123 456,New Zacharyfurt,USA,1877898687,Debit,4098.26,06-02-2025,7516 1815 5276 0203,USD,Apple Store
+RWZ0CBXW,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Caseyport,USA,7012643115,Debit,3710.56,02-03-2025,5963 6557 7215 2926,USD,Amazon
+ILUCNDDY,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Kimview,USA,6504309438,Credit,3886.79,20-01-2025,9893 6763 4721 9661,USD,Netflix
+T7XASSLL,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,West Sabrinashire,USA,1031593200,Debit,756.53,01-03-2025,4843 4191 6451 5830,USD,Walmart
+DYC10CS5,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,Brittanyborough,USA,7602148118,Credit,3921.53,26-02-2025,0364 1275 7344 6989,USD,Costco
+0AD0EQAA,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,Keithfurt,USA,4451759281,Credit,2192.46,12-02-2025,8717 2059 5314 0278,USD,Starbucks
+IBR9LH80,Alice Smith,alice.smith@example.co.uk,+44 7700 900123,West Chelsea,,1329940549,Credit,1741.46,01-03-2025,5376 1514 3041 6603,USD,Starbucks
+GG1RZ7IE,Emily Davis,emily.davis@example.com.au,+61 400 123 456,Joannamouth,USA,7356967257,Credit,2308.78,06-03-2025,5776 4906 4874 6534,USD,Best Buy
+B12ZOUY9,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,Courtneyborough,USA,3922957711,Debit,2532.48,09-02-2025,9091 9406 6136 1331,USD,Amazon
+0JTJZAMA,John Doe,johndoe@example.com,+1 202-555-0123,West Lindseyborough,,1500232409,Debit,2709.08,07-02-2025,5152 6955 4376 0361,USD,Netflix
+2JOUB3CS,Sophia Martinez,sophia.martinez@example.es,+34 612 345 678,  Mathewsshire,USA,1809395618,Debit,3571.73,13-02-2025,9270 7371 8042 6915,,Best Buy
+0BZF1S2K,Daniel Wilson,daniel.wilson@example.us,+1 415-555-0198,West Kara,USA,7574510630,Credit,4962.56,02-03-2025,3492 3350 1707 0678,USD,Best Buy
+1TZ1NF5E,Robert Brown,robert.brown@example.fr,+33 6 12 34 56 78,West Taylor,USA,4302956789,Debit,-1952,04-03-2025,0808 8046 6648 0404,USD,Starbucks
